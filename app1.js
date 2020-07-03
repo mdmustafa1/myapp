@@ -1,1 +1,1 @@
-console.log("hello in new app");
+console.log("hello in new app")
